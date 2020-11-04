@@ -10,4 +10,14 @@ Copy BrandsJatController.php to /override/controllers/front/
 
 And brandsjat.tpl to /themes/mytheme/templates
 
+Shop parameters -> Traffic & SEO, and in the "+" Add anew page.
+
+Page name, select -> brands. 
+
+Rewritten URL, we write the url -> example  our-brands
+
+verify the url: https://www.myshop-ps.com/our-brands
+
+
+
 It is an example of how we can create customized pages in php, we can associate a sql query or the variables necessary on the controller.
